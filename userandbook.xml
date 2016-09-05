@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<user>
+		<id>1</id>
+		<name>Peter</name>
+		<code>A001</code>
+	</user>
+	<user>
+		<id>2</id>
+		<name>Jack</name>
+		<code>A002</code>
+	</user>
+	<user>
+		<id>3</id>
+		<name>Lucy</name>
+		<code>A003</code>
+	</user>
+	<book>
+		<id>1</id>
+		<title>Java</title>
+		<author>Red</author>
+		<price>99.9</price>
+	</book>
+	<book>
+		<id>2</id>
+		<title>PHP</title>
+		<author>Blue</author>
+		<price>89.9</price>
+	</book>
+</users>
